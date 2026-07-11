@@ -1,0 +1,6 @@
+{
+  "name": "Magic Scribe",
+  "description": "An AI-powered thought partner and distraction-free writing experience. Ask AI to write, iterate on paragraphs inline, and receive proactive suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
